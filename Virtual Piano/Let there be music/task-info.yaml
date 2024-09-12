@@ -1,0 +1,68 @@
+type: edu
+files:
+    -   name: src/index.html
+        visible: true
+        learner_created: false
+    -   name: hstest/test.js
+        visible: false
+        learner_created: false
+    -   name: src/main.js
+        visible: true
+        learner_created: true
+    -   name: src/style.css
+        visible: true
+        learner_created: true
+    -   name: src/white_keys/A.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/white_keys/D.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/white_keys/F.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/white_keys/G.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/white_keys/H.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/white_keys/J.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/white_keys/S.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/black_keys/E.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/black_keys/T.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/black_keys/U.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/black_keys/W.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+    -   name: src/black_keys/Y.mp3
+        visible: true
+        is_binary: true
+        learner_created: true
+feedback_link: https://hyperskill.org/projects/101/stages/559/implement#comment
+status: Solved
+feedback:
+    message: Congratulations!
+    time: "Thu, 12 Sep 2024 14:29:21 UTC"
+record: 4
